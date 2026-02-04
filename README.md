@@ -4,18 +4,18 @@ A simple, colorful digital clock application built with React, Vite, and date-fn
 
 Features
 - Displays current date and time dynamically.
-- Uses `date-fns` for formatting.
+- Uses "date-fns" for formatting.
 - Visually appealing colorful design.
 
 How to Run Locally
 
 1. Install Dependencies
-   Ensure you are in the project directory (`color-clock`) and run:
-   npm install
+   Ensure you are in the project directory "color-clock" and run:
+   "npm install"
 
 
-2. Run the Development Server
-   npm run dev
+2. Run the Development Server:
+   "npm run dev"
 
 
 3. Open the App
