@@ -24,3 +24,7 @@ How to Run Locally
 Project Structure
 src/App.jsx: Contains the main clock logic and component.
 src/App.css: Contains the styling for the application.
+
+Screenshot of the working application!!
+![Dynamic Color Clock Screenshot](./screenshot.png)
+
